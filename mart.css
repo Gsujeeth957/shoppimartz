@@ -1,0 +1,72 @@
+body{
+	background: url(mart.jpg);
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	 background-repeat: no-repeat;
+    background-size: 400px 150px;
+}
+h1{
+	text-align: center;
+	border: 5px solid #33ffad
+
+}
+p{
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 80%;
+	font-family: "Georgia";
+	font font-family: cursive;
+	cursor: pointer;
+}
+.webtext{
+	border:5px dashed green;
+	background-color:#ffe6e6;
+}
+em{
+	border:2px solid #1aff1a;
+	color:  #3333ff;
+
+}
+}
+img{
+	height: 100px;
+	width: 100px;
+	margin: 10px;
+	transition: all 1s; 
+}
+img:hover{
+	transform: scale(1.1);
+}
+p
+{
+	font-size: 15px;
+}
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+img{
+	height: 450px;
+	width: 350px;
+	margin: 10px;
+	transition: all 1s; 
+}
+img:hover{
+	transform: scale(1.1);
+}
+h1{
+	font-family: fantasy;
+	font-size: 3em;
+	border-bottom: 2px solid pink;
+	border-right : 2px solid pink;
+	
+	
+	width: 400px;
+	text-align: center;
+	box-shadow: 4px 4px 5px  #888888;
+	margin-top: 10px;
+	
+}
